@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Salad Cesar",
+    "ingredients": [
+      {
+        "productName": "Tomato",
+        "quantity": 5
+      },
+      {
+        "productName": "Cabbage",
+        "quantity": 3
+      }
+    ],
+    "minCount": 16,
+    "maxCount": 50
+  }
+]

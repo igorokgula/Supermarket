@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tomato",
+    "quantity": 100,
+    "type": {
+      "rareIndicator": 0,
+      "countable": false
+    },
+    "minCount": 10,
+    "maxCount": 200
+  },
+  {
+    "name": "Cabbage",
+    "quantity": 100,
+    "type": {
+      "rareIndicator": 0,
+      "countable": false
+    },
+    "minCount": 20,
+    "maxCount": 100
+  }
+]
